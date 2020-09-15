@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LoginMaster
 {
-    class CredentialsMP
+    public class CredentialsMP
     {
         /// <summary>
         /// The only user name in the Credentials DB
